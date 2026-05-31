@@ -6,7 +6,7 @@ This code is designed to work with the [PlatEMO](https://github.com/BIMK/PlatEMO
 
 ## Keywords
 
-MATLAB, PlatEMO, evolutionary algorithms, multi-objective optimization, constrained optimization, directed mating, infeasible solutions
+MATLAB, PlatEMO, evolutionary algorithms, multi-objective optimization, constrained optimization, directed mating, infeasible solution archive
 
 ## How to run
 
