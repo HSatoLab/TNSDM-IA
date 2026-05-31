@@ -1,8 +1,12 @@
 # TNSDM-IA
 
--This repository provides open-source MATLAB code for TNSDM-IA.
+TNSDM-IA is a MATLAB implementation of a constrained multi-objective evolutionary optimization algorithm that combines two-stage non-dominated sorting, directed mating, and an archive of useful infeasible solutions.
 
--The code is designed to work seamlessly with the ([PlatEMO](https://github.com/BIMK/PlatEMO)) platform for evolutionary multi-objective optimization.
+This code is designed to work with the [PlatEMO](https://github.com/BIMK/PlatEMO) platform for evolutionary multi-objective optimization.
+
+## Keywords
+
+MATLAB, PlatEMO, evolutionary algorithms, multi-objective optimization, constrained optimization, directed mating, infeasible solutions
 
 ## How to run
 
